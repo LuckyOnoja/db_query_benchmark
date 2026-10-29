@@ -1,0 +1,7 @@
+[
+  { "id": 1, "userId": "usr_901", "amount": 120.50, "status": "completed", "createdAt": "2026-10-01" },
+  { "id": 2, "userId": "usr_422", "amount": 45.00, "status": "pending", "createdAt": "2026-10-02" },
+  { "id": 3, "userId": "usr_901", "amount": 310.00, "status": "completed", "createdAt": "2026-10-03" },
+  { "id": 4, "userId": "usr_105", "amount": 89.99, "status": "failed", "createdAt": "2026-10-04" },
+  { "id": 5, "userId": "usr_422", "amount": 215.50, "status": "completed", "createdAt": "2026-10-05" }
+]
